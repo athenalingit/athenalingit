@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athenalingit/athenalingit/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athenalingit/athenalingit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/athenalingit/athenalingit/output/pacman-contribution-graph.svg">
-</picture>
-
-
 
 <h1 align="center">Hi 👋, I'm Athena Lin</h1>
 <h3 align="center">A 3rd year UCSD Cognitive Science ML & Neural Computation student</h3>
