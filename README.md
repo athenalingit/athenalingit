@@ -1,7 +1,7 @@
 
 <h1 align="center">hi,  i'm athena  ᵕ̈ </h1>
 <h3 align="center">A 3rd year UCSD Cognitive Science ML & Neural Computation student</h3>
-<h4 align="center">with a minor in computer science! </h4>
+<h4 align="center">with a minor in computer science!  ᵕ̈  </h4>
 
 
 <table>
