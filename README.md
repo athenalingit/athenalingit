@@ -11,7 +11,7 @@
 <ul>
 <li>˙⟡ Currently working on AI/ML research, exploring ways to fine-tune open-source LLM models</li>
 <li>˙⟡ Learning AWS Cloud services to build and deploy scalable solutions</li>
-<li>˙⟡ Fun fact: I love matcha</li>
+<li>˙⟡ Fun fact: I have a perfect driving record! </li>
 </ul>
 
 <h2>♡ Socials</h2>
