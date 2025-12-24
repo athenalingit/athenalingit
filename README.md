@@ -1,7 +1,7 @@
 
-<h1 align="center">hi,  i'm athena  ᵕ̈ </h1>
+<h1 align="center">Hi,  i'm athena </h1>
 <h3 align="center">A 3rd year UCSD Cognitive Science ML & Neural Computation student</h3>
-<h4 align="center">with a minor in computer science!  ᵕ̈  </h4>
+<h4 align="center">with a minor in computer science! </h4>
 
 
 <table>
@@ -11,8 +11,6 @@
 <h2>♡ About Me</h2>
 <ul>
 <li>˙⟡ Currently working on AI/ML research, exploring ways to fine-tune open-source LLM models</li>
-<li>˙⟡ Learning AWS Cloud services to build and deploy scalable solutions</li>
-<li>˙⟡ Fun fact: I have a perfect driving record! </li>
 </ul>
 
 <h2>♡ Socials</h2>
